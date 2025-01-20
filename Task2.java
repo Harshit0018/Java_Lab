@@ -37,7 +37,5 @@ public class Task2 {
         System.out.println("* Total               " + total + "                *");
         System.out.printf("* Percentage          %.2f%%             *\n", percentage);
         System.out.println("******************************************");
-
-        scanner.close();
     }
 }
